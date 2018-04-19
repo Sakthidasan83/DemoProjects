@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCRM", "CustomCRM\CustomCRM.csproj", "{0CCEF780-8BD2-42BA-BC97-306B94B9F245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCRM.Tests", "CustomCRM.Tests\CustomCRM.Tests.csproj", "{872DBAF0-4572-4B49-898F-7BFD9E5EE5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCRM.Models", "CustomCRM.Models\CustomCRM.Models\CustomCRM.Models.csproj", "{4700782C-A651-4710-AE77-8143FEF15F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCEF780-8BD2-42BA-BC97-306B94B9F245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCEF780-8BD2-42BA-BC97-306B94B9F245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCEF780-8BD2-42BA-BC97-306B94B9F245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCEF780-8BD2-42BA-BC97-306B94B9F245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872DBAF0-4572-4B49-898F-7BFD9E5EE5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872DBAF0-4572-4B49-898F-7BFD9E5EE5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872DBAF0-4572-4B49-898F-7BFD9E5EE5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872DBAF0-4572-4B49-898F-7BFD9E5EE5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4700782C-A651-4710-AE77-8143FEF15F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4700782C-A651-4710-AE77-8143FEF15F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4700782C-A651-4710-AE77-8143FEF15F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4700782C-A651-4710-AE77-8143FEF15F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
